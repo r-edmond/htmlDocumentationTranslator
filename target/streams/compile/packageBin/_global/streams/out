@@ -1,0 +1,21 @@
+[debug] Packaging D:\code\html-converter\target\scala-2.13\html-converter_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	org
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org
+[debug] 	org\nu
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu
+[debug] 	org\nu\htmlDocumentation
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation
+[debug] 	org\nu\htmlDocumentation\example
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example
+[debug] 	org\nu\htmlDocumentation\example\Main$.class
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example\Main$.class
+[debug] 	org\nu\htmlDocumentation\example\Main$delayedInit$body.class
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example\Main$delayedInit$body.class
+[debug] 	org\nu\htmlDocumentation\example\Main$Slide$.class
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example\Main$Slide$.class
+[debug] 	org\nu\htmlDocumentation\example\Main$Slide.class
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example\Main$Slide.class
+[debug] 	org\nu\htmlDocumentation\example\Main.class
+[debug] 	  D:\code\html-converter\target\scala-2.13\classes\org\nu\htmlDocumentation\example\Main.class
+[debug] Done packaging.

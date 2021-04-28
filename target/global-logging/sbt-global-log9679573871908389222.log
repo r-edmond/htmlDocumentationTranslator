@@ -1,0 +1,11 @@
+[debug] > Exec(import scala.xml.XML, None, None)
+[error] Expected ID character
+[error] Not a valid command: import (similar: export)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: import (similar: ideaPort, timingFormat)
+[error] import scala.xml.XML
+[error]       ^
+[debug] > Exec(idea-shell, None, None)
