@@ -22,11 +22,11 @@
 [debug] compilation cycle 1
 [info] compiling 1 Scala source to D:\code\html-converter\target\scala-2.13\classes ...
 [debug] Getting org.scala-sbt:compiler-bridge_2.13:1.4.4:compile for Scala 2.13.5
-[debug] [zinc] Running cached compiler 77f85f0f for Scala compiler version 2.13.5
+[debug] [zinc] Running cached compiler 707b2680 for Scala compiler version 2.13.5
 [debug] [zinc] The Scala compiler is invoked with:
 [debug] 	-bootclasspath
 [debug] 	C:\Users\rayno\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.5\scala-library-2.13.5.jar
 [debug] 	-classpath
 [debug] 	D:\code\html-converter\target\scala-2.13\classes;C:\Users\rayno\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.13\1.1.2\scala-parser-combinators_2.13-1.1.2.jar;C:\Users\rayno\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.13\2.0.0-M1\scala-xml_2.13-2.0.0-M1.jar
-[debug] Scala compilation took 2.0671589 s
+[debug] Scala compilation took 0.2090246 s
 [info] done compiling
